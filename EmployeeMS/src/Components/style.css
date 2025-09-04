@@ -1,0 +1,11 @@
+.loginPage {
+  background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)),
+    url("Images/LoginPage.jpg") no-repeat center center;
+  background-size: cover; /* maintain aspect ratio */
+}
+
+.loginForm {
+  background-color: rgba(255, 255, 255, 0.9); /* light semi-transparent */
+  color: #000;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
+}
